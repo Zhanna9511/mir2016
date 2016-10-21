@@ -1,0 +1,38 @@
+/* лаб. 2 21 октября 2016, ауд. 3-14
+*/
+body{
+	background-image: url("http://www.kgau.ru/istiki/study/labs/journal/images/background.gif");
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#container{
+	border:10px white solid;
+	background-color: white;
+
+}
+#header{
+	background-color: #A8F0F0 ;
+    text-align: right;
+}
+.entry{
+	border:4px #C2E9E9 solid;
+	padding: 5px;
+	background-color: #E8FBFB;
+    margin-top: 10px;
+    text-align: justify;
+    border-radius: 15px;
+}
+.entry img {
+	float: right;
+}
+
+.date{
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+}
+#header h2 {	
+      font-size: 14pt ;
+}
+.spacer {
+	clear: right;
+}
