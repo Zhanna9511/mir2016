@@ -1,0 +1,8 @@
+title: Mir2016
+description: Хранилище по МИР
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
